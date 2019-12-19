@@ -9,6 +9,9 @@ This is a library of various algorithms that are used in competitive programming
 [disjoint_set_union.cpp](Algorithms/disjoint_set_union.cpp) <br />
 [Floyd_cycle_detection.cpp](Algorithms/Linked_List/Floyd_cycle_detection.cpp)
 
+### Longest Path Alogrithm added
+[Algorithm to find the longest path in an undirected graph](longest_path_algo.cpp)
+
 ### Bellman Ford Alogrithm added
 [Algorithm to find the single source shortest path in a graph with or without negative edges and negative weight cycle](Bellman_Ford/BellmanFord.cpp)
 
